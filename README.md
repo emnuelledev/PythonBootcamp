@@ -10,6 +10,8 @@ The goal is to strengthen my Python foundation, reinforce core programming conce
 
 Rather than skipping familiar material, I'm using the course as an opportunity to revisit concepts in depth, improve my problem-solving skills, and build greater fluency with Python.
 
+> **Note:** The repository starts at Day 3 because my original files from Days 1 and 2 were not preserved. The challenge itself was started from Day 1; only those initial files are missing from the repository.
+
 ## 🎯 Objectives
 
 * Reinforce Python fundamentals and core programming concepts
